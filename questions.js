@@ -599,8 +599,8 @@ window.QUESTION_BANK = [
     ],
     "originalGroup": 5,
     "number": 3,
-    "correct": 2,
-    "explain": "Đáp án chọn: like. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+    "correct": 1,
+    "explain": "Theo đáp án được tô đỏ trong tài liệu Multiple A.docx: forecast."
   },
   {
     "id": "Q044",
@@ -2159,8 +2159,8 @@ window.QUESTION_BANK = [
     ],
     "originalGroup": 16,
     "number": 4,
-    "correct": 0,
-    "explain": "Đáp án chọn: few. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+    "correct": 1,
+    "explain": "Theo đáp án được tô đỏ trong tài liệu Multiple A.docx: a few."
   },
   {
     "id": "Q155",
