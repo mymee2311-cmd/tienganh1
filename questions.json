@@ -1,0 +1,3512 @@
+[
+  {
+    "id": "Q001",
+    "q": "Please don’t make so much noise I ________",
+    "options": [
+      "Study",
+      "am studying",
+      "have studied",
+      "have been studying."
+    ],
+    "originalGroup": 1,
+    "number": 1,
+    "correct": 1,
+    "explain": "Đáp án chọn: am studying. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q002",
+    "q": "Susan ______ as a nurse for 3 years before her marriage.",
+    "options": [
+      "Worked",
+      "Has worked",
+      "was working",
+      "has been working"
+    ],
+    "originalGroup": 1,
+    "number": 2,
+    "correct": 0,
+    "explain": "Đáp án chọn: Worked. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q003",
+    "q": "Mathematics _______ not an easy subject for everybody",
+    "options": [
+      "are",
+      "Is",
+      "does",
+      "will"
+    ],
+    "originalGroup": 1,
+    "number": 3,
+    "correct": 1,
+    "explain": "Đáp án chọn: Is. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q004",
+    "q": "I occasionally think of_______ my friends in New York.",
+    "options": [
+      "Visiting",
+      "Visit",
+      "to visit",
+      "to visiting"
+    ],
+    "originalGroup": 1,
+    "number": 4,
+    "correct": 0,
+    "explain": "Đáp án chọn: Visiting. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q005",
+    "q": "Let’s go for a swim as soon as we ________ the hotel.",
+    "options": [
+      "Arrive",
+      "Get",
+      "Reach",
+      "Come"
+    ],
+    "originalGroup": 1,
+    "number": 5,
+    "correct": 2,
+    "explain": "as soon as + hiện tại đơn để nói tương lai"
+  },
+  {
+    "id": "Q006",
+    "q": "It’s important to have a sense of ________ or it’s easy to get depressed.",
+    "options": [
+      "Laughter",
+      "Amusement",
+      "Comedy",
+      "Humour"
+    ],
+    "originalGroup": 1,
+    "number": 6,
+    "correct": 3,
+    "explain": "a sense of humour = khiếu hài hước"
+  },
+  {
+    "id": "Q007",
+    "q": "I’m going to make a real effort to get ________ shape for the summer.",
+    "options": [
+      "in",
+      "On",
+      "Of",
+      "For"
+    ],
+    "originalGroup": 1,
+    "number": 7,
+    "correct": 0,
+    "explain": "get in shape = lấy lại vóc dáng"
+  },
+  {
+    "id": "Q008",
+    "q": "Alice can’t stand waiting in queues. She’s very________.",
+    "options": [
+      "Patient",
+      "Aggressive",
+      "Shy",
+      "Impatient"
+    ],
+    "originalGroup": 1,
+    "number": 8,
+    "correct": 3,
+    "explain": "Đáp án chọn: Impatient. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q009",
+    "q": "Don’t ________ until tomorrow what you can do today",
+    "options": [
+      "put on",
+      "put off",
+      "put out",
+      "put up with"
+    ],
+    "originalGroup": 1,
+    "number": 9,
+    "correct": 1,
+    "explain": "put off = trì hoãn"
+  },
+  {
+    "id": "Q010",
+    "q": "Although younger than the other children, she demanded ________ in the game",
+    "options": [
+      "to include",
+      "Including",
+      "to be included",
+      "Include"
+    ],
+    "originalGroup": 1,
+    "number": 10,
+    "correct": 2,
+    "explain": "demand to be included = yêu cầu được tham gia"
+  },
+  {
+    "id": "Q011",
+    "q": "A ______ is an object that helps you remember a place you have visited.",
+    "options": [
+      "diary",
+      "Souvenir",
+      "Memory",
+      "gift"
+    ],
+    "originalGroup": 2,
+    "number": 1,
+    "correct": 1,
+    "explain": "Đáp án chọn: Souvenir. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q012",
+    "q": "If you want to see the dentist, it’s best to make ______with him",
+    "options": [
+      "a date",
+      "an interview",
+      "an appointment",
+      "a meeting"
+    ],
+    "originalGroup": 2,
+    "number": 2,
+    "correct": 2,
+    "explain": "make an appointment = đặt lịch hẹn"
+  },
+  {
+    "id": "Q013",
+    "q": "She is only six, and ______ that age she can’t know much.",
+    "options": [
+      "at",
+      "On",
+      "in",
+      "by"
+    ],
+    "originalGroup": 2,
+    "number": 3,
+    "correct": 0,
+    "explain": "Đáp án chọn: at. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q014",
+    "q": "The speaker said ______ nothing worth listening to.",
+    "options": [
+      "complete",
+      "Almost",
+      "especially",
+      "quite"
+    ],
+    "originalGroup": 2,
+    "number": 4,
+    "correct": 1,
+    "explain": "Đáp án chọn: Almost. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q015",
+    "q": "If you park your car in the wrong place, you have to pay a ________.",
+    "options": [
+      "money",
+      "Fee",
+      "ticket",
+      "fine"
+    ],
+    "originalGroup": 2,
+    "number": 5,
+    "correct": 3,
+    "explain": "Đáp án chọn: fine. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q016",
+    "q": "I was a bit ________ with my test results – I will have to work harder next time!",
+    "options": [
+      "worried",
+      "Disappointed",
+      "excited",
+      "nervous"
+    ],
+    "originalGroup": 2,
+    "number": 6,
+    "correct": 1,
+    "explain": "Đáp án chọn: Disappointed. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q017",
+    "q": "He sometimes_______ in bed until lunchtime.",
+    "options": [
+      "stays",
+      "is staying",
+      "stayed",
+      "stay"
+    ],
+    "originalGroup": 2,
+    "number": 7,
+    "correct": 0,
+    "explain": "Đáp án chọn: stays. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q018",
+    "q": "_______ to have lunch with us today?",
+    "options": [
+      "Would you like",
+      "Do you like",
+      "Will you",
+      "Can you"
+    ],
+    "originalGroup": 2,
+    "number": 8,
+    "correct": 0,
+    "explain": "Đáp án chọn: Would you like. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q019",
+    "q": "4. The Prime Minister _______  to Paris several times",
+    "options": [
+      "goes",
+      "has gone",
+      "was",
+      "has been"
+    ],
+    "originalGroup": 2,
+    "number": 9,
+    "correct": 3,
+    "explain": "Đáp án chọn: has been. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q020",
+    "q": "Please ________ and see us some time – you’re always welcome.",
+    "options": [
+      "come to",
+      "come around",
+      "come about",
+      "come away."
+    ],
+    "originalGroup": 2,
+    "number": 10,
+    "correct": 1,
+    "explain": "Đáp án chọn: come around. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q021",
+    "q": "I like to see “World News”. That’s my ______",
+    "options": [
+      "popular",
+      "Favourite",
+      "Preferable",
+      "likeable"
+    ],
+    "originalGroup": 3,
+    "number": 1,
+    "correct": 1,
+    "explain": "Đáp án chọn: Favourite. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q022",
+    "q": "How was the movie? To tell the truth, it was rather ______",
+    "options": [
+      "interesting",
+      "Disappointed",
+      "disappointing",
+      "excited"
+    ],
+    "originalGroup": 3,
+    "number": 2,
+    "correct": 2,
+    "explain": "Đáp án chọn: disappointing. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q023",
+    "q": "This is a different textbook ______ the one we used yesterday",
+    "options": [
+      "from",
+      "With",
+      "To",
+      "as"
+    ],
+    "originalGroup": 3,
+    "number": 3,
+    "correct": 0,
+    "explain": "Đáp án chọn: from. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q024",
+    "q": "When it started to snow, he_______ his overcoat.",
+    "options": [
+      "took out",
+      "put off",
+      "put on",
+      "took off"
+    ],
+    "originalGroup": 3,
+    "number": 4,
+    "correct": 2,
+    "explain": "Đáp án chọn: put on. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q025",
+    "q": "To request more___ about any of our products and services, please visit our website.",
+    "options": [
+      "information",
+      "News",
+      "Brochure",
+      "equipment"
+    ],
+    "originalGroup": 3,
+    "number": 5,
+    "correct": 0,
+    "explain": "Đáp án chọn: information. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q026",
+    "q": "There’s lots of night-life in Chicago. It’s one of the most ________ cities in the US.",
+    "options": [
+      "polluted",
+      "Exciting",
+      "Excited",
+      "quiet"
+    ],
+    "originalGroup": 3,
+    "number": 6,
+    "correct": 1,
+    "explain": "Đáp án chọn: Exciting. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q027",
+    "q": "“May I speak to Dr. Paine, please?” “I’m sorry, he_______ a patient at the moment.”",
+    "options": [
+      "is seeing",
+      "Sees",
+      "has been seeing",
+      "was seeing"
+    ],
+    "originalGroup": 3,
+    "number": 7,
+    "correct": 0,
+    "explain": "Đáp án chọn: is seeing. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q028",
+    "q": "I know him by________, but I have no idea what his name is.",
+    "options": [
+      "Sight",
+      "Chance",
+      "Heart",
+      "myself"
+    ],
+    "originalGroup": 3,
+    "number": 8,
+    "correct": 0,
+    "explain": "Đáp án chọn: Sight. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q029",
+    "q": "5. Ann refused to take ________ in the preparations for the school concert.",
+    "options": [
+      "Place",
+      "Notice",
+      "part",
+      "leave"
+    ],
+    "originalGroup": 3,
+    "number": 9,
+    "correct": 2,
+    "explain": "Đáp án chọn: part. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q030",
+    "q": "There________available in his area of specialization.",
+    "options": [
+      "isn’t a lot of job",
+      "isn’t a lot of jobs",
+      "aren’t a lot of jobs",
+      "aren’t a lot of job."
+    ],
+    "originalGroup": 3,
+    "number": 10,
+    "correct": 2,
+    "explain": "Đáp án chọn: aren’t a lot of jobs. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức.",
+    "note": "Câu thiếu văn cảnh; cấu trúc “aren’t a lot of jobs” phù hợp chủ ngữ số nhiều."
+  },
+  {
+    "id": "Q031",
+    "q": "She has a lot of spare(thừa) time and wants to know how best to ________ it.",
+    "options": [
+      "save",
+      "waste",
+      "Spend",
+      "make"
+    ],
+    "originalGroup": 4,
+    "number": 1,
+    "correct": 2,
+    "explain": "Đáp án chọn: Spend. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q032",
+    "q": "Mary loves ________ to clothes shops with her boyfriend.",
+    "options": [
+      "to go",
+      "go",
+      "Goes",
+      "going"
+    ],
+    "originalGroup": 4,
+    "number": 2,
+    "correct": 3,
+    "explain": "Đáp án chọn: going. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q033",
+    "q": "Mary was having breakfast when the phone ________",
+    "options": [
+      "rang",
+      "rung",
+      "was ringing",
+      "is ringing"
+    ],
+    "originalGroup": 4,
+    "number": 3,
+    "correct": 0,
+    "explain": "Đáp án chọn: rang. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q034",
+    "q": "His parents never allowed him ________(allow to V: cho phép làm gì)",
+    "options": [
+      "to smoke",
+      "smoking",
+      "Smoke",
+      "smokes"
+    ],
+    "originalGroup": 4,
+    "number": 4,
+    "correct": 0,
+    "explain": "Đáp án chọn: to smoke. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q035",
+    "q": "Tim ________ fishing with his father when he was young.",
+    "options": [
+      "used to going",
+      "used to go",
+      "is used to going",
+      "use to go"
+    ],
+    "originalGroup": 4,
+    "number": 5,
+    "correct": 1,
+    "explain": "Đáp án chọn: used to go. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q036",
+    "q": "I can speak English well, but I don’t know________ about English literature.",
+    "options": [
+      "much",
+      "Little",
+      "a lot",
+      "Some"
+    ],
+    "originalGroup": 4,
+    "number": 6,
+    "correct": 0,
+    "explain": "Đáp án chọn: much. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q037",
+    "q": "He failed to call her and say goodbye because his telephone was _______",
+    "options": [
+      "out of order",
+      "out of work",
+      "off work",
+      "off duty"
+    ],
+    "originalGroup": 4,
+    "number": 7,
+    "correct": 0,
+    "explain": "Đáp án chọn: out of order. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q038",
+    "q": "The ________ for winning that match is a gold medal.",
+    "options": [
+      "Prizing",
+      "Award",
+      "Reward",
+      "Gift"
+    ],
+    "originalGroup": 4,
+    "number": 8,
+    "correct": 1,
+    "explain": "Đáp án chọn: Award. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q039",
+    "q": "6. Mr. Wilson is a very ________ teacher. He’s always calm and never gets angry.",
+    "options": [
+      "Strict",
+      "Funny",
+      "generous",
+      "Patient"
+    ],
+    "originalGroup": 4,
+    "number": 9,
+    "correct": 3,
+    "explain": "Đáp án chọn: Patient. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q040",
+    "q": "Never________ till tomorrow what you can do today.",
+    "options": [
+      "take off",
+      "set off",
+      "put off",
+      "get off"
+    ],
+    "originalGroup": 4,
+    "number": 10,
+    "correct": 2,
+    "explain": "put off = trì hoãn"
+  },
+  {
+    "id": "Q041",
+    "q": "I’m absolutely not good at all ________ any kind of sports.",
+    "options": [
+      "with",
+      "on",
+      "at",
+      "for"
+    ],
+    "originalGroup": 5,
+    "number": 1,
+    "correct": 2,
+    "explain": "Đáp án chọn: at. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q042",
+    "q": "\"My computer has just crashed!\" \"Don't worry. I ________it\"",
+    "options": [
+      "am going to fix",
+      "’ll fix",
+      "am fixing",
+      "fixed"
+    ],
+    "originalGroup": 5,
+    "number": 2,
+    "correct": 1,
+    "explain": "Đáp án chọn: ’ll fix. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q043",
+    "q": "What's the weather ________for tomorrow",
+    "options": [
+      "storm",
+      "forecast",
+      "like",
+      "lightning"
+    ],
+    "originalGroup": 5,
+    "number": 3,
+    "correct": 2,
+    "explain": "Đáp án chọn: like. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q044",
+    "q": "You've been coughing a lot lately. You ________ smoke so much",
+    "options": [
+      "needn’t",
+      "can’t",
+      "shouldn’t",
+      "don’t have to"
+    ],
+    "originalGroup": 5,
+    "number": 4,
+    "correct": 2,
+    "explain": "Đáp án chọn: shouldn’t. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q045",
+    "q": "I love the peace and ________of the countryside.",
+    "options": [
+      "quiet",
+      "Silent",
+      "Quite",
+      "safe"
+    ],
+    "originalGroup": 5,
+    "number": 5,
+    "correct": 0,
+    "explain": "Đáp án chọn: quiet. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q046",
+    "q": "You don’t have to pay for delivery. It is free of ________",
+    "options": [
+      "Fee",
+      "cost",
+      "Charge",
+      "payment"
+    ],
+    "originalGroup": 5,
+    "number": 6,
+    "correct": 2,
+    "explain": "free of charge = miễn phí"
+  },
+  {
+    "id": "Q047",
+    "q": "There’s________traffic in San Francisco than in London",
+    "options": [
+      "Much",
+      "many",
+      "Fewer",
+      "Less"
+    ],
+    "originalGroup": 5,
+    "number": 7,
+    "correct": 3,
+    "explain": "Đáp án chọn: Less. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q048",
+    "q": "He is very ________because he is concerned only with his own interests and feelings",
+    "options": [
+      "confident",
+      "Selfish",
+      "Helpful",
+      "generous"
+    ],
+    "originalGroup": 5,
+    "number": 8,
+    "correct": 1,
+    "explain": "Đáp án chọn: Selfish. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q049",
+    "q": "Take some more money ________ it costs more than you think.",
+    "options": [
+      "in case",
+      "provided",
+      "otherwise",
+      "unless"
+    ],
+    "originalGroup": 5,
+    "number": 9,
+    "correct": 0,
+    "explain": "Đáp án chọn: in case. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q050",
+    "q": "My sister _____ trouble with her motorbike now, so she has to take the bus to work.",
+    "options": [
+      "had",
+      "was having",
+      "is having",
+      "has had"
+    ],
+    "originalGroup": 5,
+    "number": 10,
+    "correct": 2,
+    "explain": "Đáp án chọn: is having. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q051",
+    "q": "My sister and I have a lot in ________ We like and dislike the same people and things.",
+    "options": [
+      "the same",
+      "common",
+      "Similarity",
+      "agreement"
+    ],
+    "originalGroup": 6,
+    "number": 1,
+    "correct": 1,
+    "explain": "Đáp án chọn: common. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q052",
+    "q": "I can’t understand the instruction. They’re ________ Chinese.",
+    "options": [
+      "in",
+      "by",
+      "About",
+      "with"
+    ],
+    "originalGroup": 6,
+    "number": 2,
+    "correct": 0,
+    "explain": "Đáp án chọn: in. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q053",
+    "q": "Yesterday I had a really bad cold so I had to ________some medicine.",
+    "options": [
+      "drink",
+      "give",
+      "Take",
+      "got"
+    ],
+    "originalGroup": 6,
+    "number": 3,
+    "correct": 2,
+    "explain": "Đáp án chọn: Take. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q054",
+    "q": "You ________include this section. It’s not necessary.",
+    "options": [
+      "must",
+      "can’t",
+      "mustn’t",
+      "don’t have to"
+    ],
+    "originalGroup": 6,
+    "number": 4,
+    "correct": 3,
+    "explain": "Đáp án chọn: don’t have to. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q055",
+    "q": "What is the most ________sports match you’ve ever watch that makes you happy?",
+    "options": [
+      "excited",
+      "exciting",
+      "Boring",
+      "bored"
+    ],
+    "originalGroup": 6,
+    "number": 5,
+    "correct": 1,
+    "explain": "Đáp án chọn: exciting. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q056",
+    "q": "I usually feel ________when I stay at home ________.",
+    "options": [
+      "alone/lonely",
+      "lonely/alone",
+      "lonely/lonely",
+      "alone/alone"
+    ],
+    "originalGroup": 6,
+    "number": 6,
+    "correct": 1,
+    "explain": "Đáp án chọn: lonely/alone. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức.",
+    "note": "Câu gốc “Would you mind helping me to take...” chưa tự nhiên; đúng sau mind là V-ing."
+  },
+  {
+    "id": "Q057",
+    "q": "We traveled to the capital city with only ________ luggage.",
+    "options": [
+      "much",
+      "a few",
+      "a lot",
+      "a little"
+    ],
+    "originalGroup": 6,
+    "number": 7,
+    "correct": 3,
+    "explain": "Đáp án chọn: a little. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q058",
+    "q": "I couldn’t reach the phone because I _____ a bath.",
+    "options": [
+      "was having",
+      "am having",
+      "Had",
+      "has had"
+    ],
+    "originalGroup": 6,
+    "number": 8,
+    "correct": 0,
+    "explain": "Đáp án chọn: was having. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q059",
+    "q": "When I___in the cupboard I saw that I ___ any more coffee because I had drunk it all.",
+    "options": [
+      "was looking/wasn’t",
+      "looked/didn’t have",
+      "look/don’t look",
+      "had looked/didn’t have"
+    ],
+    "originalGroup": 6,
+    "number": 9,
+    "correct": 1,
+    "explain": "Đáp án chọn: looked/didn’t have. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q060",
+    "q": "Would you mind _____ me to take these chairs away.",
+    "options": [
+      "help",
+      "to help",
+      "Helping",
+      "helps"
+    ],
+    "originalGroup": 6,
+    "number": 10,
+    "correct": 2,
+    "explain": "Đáp án chọn: Helping. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q061",
+    "q": "For many people, hark work is the key ________success.",
+    "options": [
+      "for",
+      "with",
+      "To",
+      "of"
+    ],
+    "originalGroup": 7,
+    "number": 1,
+    "correct": 2,
+    "explain": "the key to success = chìa khóa dẫn tới thành công"
+  },
+  {
+    "id": "Q062",
+    "q": "John wanted a new hobby so he decided to ________stamp collecting.",
+    "options": [
+      "take up",
+      "take over",
+      "take off",
+      "take in"
+    ],
+    "originalGroup": 7,
+    "number": 2,
+    "correct": 0,
+    "explain": "Đáp án chọn: take up. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q063",
+    "q": "The students are working ________ for the exam.",
+    "options": [
+      "hardly",
+      "hard",
+      "more hard",
+      "hardness"
+    ],
+    "originalGroup": 7,
+    "number": 3,
+    "correct": 1,
+    "explain": "Đáp án chọn: hard. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q064",
+    "q": "I often go to the countryside at the weekends. The quiet and ________ atmosphere there calm me down.",
+    "options": [
+      "polluted",
+      "peaceful",
+      "Dirty",
+      "noisy"
+    ],
+    "originalGroup": 7,
+    "number": 4,
+    "correct": 1,
+    "explain": "Đáp án chọn: peaceful. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q065",
+    "q": "When he was at university, my dad did a ________in maths.",
+    "options": [
+      "study",
+      "subject",
+      "Degree",
+      "certificate"
+    ],
+    "originalGroup": 7,
+    "number": 5,
+    "correct": 2,
+    "explain": "Đáp án chọn: Degree. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q066",
+    "q": "I wanted to buy a drink, but the machine was out of ________",
+    "options": [
+      "work",
+      "position",
+      "Operation",
+      "order"
+    ],
+    "originalGroup": 7,
+    "number": 6,
+    "correct": 3,
+    "explain": "Đáp án chọn: order. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q067",
+    "q": "I don't have ________money, so I'll have to wait to get a new coat.",
+    "options": [
+      "much",
+      "a few",
+      "Many",
+      "a little"
+    ],
+    "originalGroup": 7,
+    "number": 7,
+    "correct": 0,
+    "explain": "Đáp án chọn: much. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q068",
+    "q": "He was mowing the lawn when I ________him.",
+    "options": [
+      "have seen",
+      "was seeing",
+      "Saw",
+      "had seen"
+    ],
+    "originalGroup": 7,
+    "number": 8,
+    "correct": 2,
+    "explain": "Đáp án chọn: Saw. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q069",
+    "q": "I laughed a lot because the movie was  ________",
+    "options": [
+      "funny",
+      "excited",
+      "Frightening",
+      "boring"
+    ],
+    "originalGroup": 7,
+    "number": 9,
+    "correct": 0,
+    "explain": "Đáp án chọn: funny. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q070",
+    "q": "Please remember ________your hand during the test if you have a question.",
+    "options": [
+      "raise",
+      "to raise",
+      "Raising",
+      "to raising"
+    ],
+    "originalGroup": 7,
+    "number": 10,
+    "correct": 1,
+    "explain": "Đáp án chọn: to raise. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q071",
+    "q": "Look________ a word if you don’t understand it.",
+    "options": [
+      "up",
+      "for",
+      "After",
+      "down"
+    ],
+    "originalGroup": 8,
+    "number": 1,
+    "correct": 0,
+    "explain": "Đáp án chọn: up. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q072",
+    "q": "A ________ looks after children when parents are out.",
+    "options": [
+      "baby-looker",
+      "child-sitter",
+      "baby-sitter",
+      "baby sister"
+    ],
+    "originalGroup": 8,
+    "number": 2,
+    "correct": 2,
+    "explain": "Đáp án chọn: baby-sitter. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q073",
+    "q": "I fell over in front of everyone at lunch. It was so ________.",
+    "options": [
+      "embarrassing",
+      "embarrassed",
+      "Frightening",
+      "frightened"
+    ],
+    "originalGroup": 8,
+    "number": 3,
+    "correct": 0,
+    "explain": "Đáp án chọn: embarrassing. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q074",
+    "q": "What about ________to the cinema?",
+    "options": [
+      "go",
+      "to go",
+      "Going",
+      "to going"
+    ],
+    "originalGroup": 8,
+    "number": 4,
+    "correct": 2,
+    "explain": "Đáp án chọn: Going. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q075",
+    "q": "If they hadn’t advertised, ________ people would have known about the product.",
+    "options": [
+      "a lot of",
+      "few",
+      "Many",
+      "much"
+    ],
+    "originalGroup": 8,
+    "number": 5,
+    "correct": 1,
+    "explain": "Đáp án chọn: few. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q076",
+    "q": "‘I finally got all the books on the shelves.” “Look out! The ones on the top ________’.",
+    "options": [
+      "are going to fall",
+      "are falling",
+      "will fall",
+      "is going to fall"
+    ],
+    "originalGroup": 8,
+    "number": 6,
+    "correct": 0,
+    "explain": "Đáp án chọn: are going to fall. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q077",
+    "q": "The little girl started to cry. She ________her doll, and no one was able to find it for her.",
+    "options": [
+      "was losing",
+      "had lost",
+      "has lost",
+      "lost"
+    ],
+    "originalGroup": 8,
+    "number": 7,
+    "correct": 1,
+    "explain": "Đáp án chọn: had lost. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q078",
+    "q": "Everyone expects Johnson to ________ Smith in today's final.",
+    "options": [
+      "beat",
+      "win",
+      "Defend",
+      "defeated"
+    ],
+    "originalGroup": 8,
+    "number": 8,
+    "correct": 0,
+    "explain": "Đáp án chọn: beat. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q079",
+    "q": "Participants ________ bring any special equipment as everything will be provided.",
+    "options": [
+      "mustn’t",
+      "have to",
+      "Should",
+      "needn’t"
+    ],
+    "originalGroup": 8,
+    "number": 9,
+    "correct": 3,
+    "explain": "Đáp án chọn: needn’t. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q080",
+    "q": "The audience is laughing most of the time in a ________.",
+    "options": [
+      "comedy",
+      "science fiction",
+      "Documentary",
+      "soap opera"
+    ],
+    "originalGroup": 8,
+    "number": 10,
+    "correct": 0,
+    "explain": "Đáp án chọn: comedy. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q081",
+    "q": "I was very _______ when he passed the exam.",
+    "options": [
+      "surprised",
+      "disappointed",
+      "disappointing",
+      "surprising"
+    ],
+    "originalGroup": 9,
+    "number": 1,
+    "correct": 0,
+    "explain": "Đáp án chọn: surprised. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q082",
+    "q": "If you don’t eat fruit and vegetables, your body _______ the vitamins it needs.",
+    "options": [
+      "doesn’t get",
+      "didn’t get",
+      "won’t get",
+      "hasn’t got"
+    ],
+    "originalGroup": 9,
+    "number": 2,
+    "correct": 0,
+    "explain": "Đáp án chọn: doesn’t get. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q083",
+    "q": "Did you know that the antibiotic penicillin was discovered _______ chance?",
+    "options": [
+      "by",
+      "with",
+      "from",
+      "for"
+    ],
+    "originalGroup": 9,
+    "number": 3,
+    "correct": 0,
+    "explain": "Đáp án chọn: by. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q084",
+    "q": "The _______ on motorways in Great Britain is 70 mph (120 kph)",
+    "options": [
+      "speed control",
+      "fast lane",
+      "limit speed",
+      "speed limit"
+    ],
+    "originalGroup": 9,
+    "number": 4,
+    "correct": 3,
+    "explain": "Đáp án chọn: speed limit. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q085",
+    "q": "If something is illegal, it’s against the _______",
+    "options": [
+      "government",
+      "law",
+      "society",
+      "rule"
+    ],
+    "originalGroup": 9,
+    "number": 5,
+    "correct": 1,
+    "explain": "Đáp án chọn: law. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q086",
+    "q": "The mechanic _______ me £100.",
+    "options": [
+      "cost",
+      "charged",
+      "borrowed",
+      "spent"
+    ],
+    "originalGroup": 9,
+    "number": 6,
+    "correct": 1,
+    "explain": "Đáp án chọn: charged. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q087",
+    "q": "Since 1980, scientists all over the world _______a lot of things to fight against AIDS.",
+    "options": [
+      "has done",
+      "did",
+      "have done",
+      "had done"
+    ],
+    "originalGroup": 9,
+    "number": 7,
+    "correct": 2,
+    "explain": "Đáp án chọn: have done. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q088",
+    "q": "Our teacher made the whole class _______ after the lesson because we had been so noisy.",
+    "options": [
+      "to stay",
+      "stay",
+      "staying",
+      "stayed"
+    ],
+    "originalGroup": 9,
+    "number": 8,
+    "correct": 1,
+    "explain": "Đáp án chọn: stay. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q089",
+    "q": "The company requires that all employees have physical examination_______.",
+    "options": [
+      "rarely",
+      "never",
+      "annually",
+      "seldom"
+    ],
+    "originalGroup": 9,
+    "number": 9,
+    "correct": 2,
+    "explain": "Đáp án chọn: annually. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q090",
+    "q": "I will never forget ______the beautiful country of Thailand during the summer last year.",
+    "options": [
+      "to visit",
+      "visited",
+      "visit",
+      "visiting"
+    ],
+    "originalGroup": 9,
+    "number": 10,
+    "correct": 3,
+    "explain": "Đáp án chọn: visiting. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q091",
+    "q": "There was an accident, but fortunately no one was_______ injured.",
+    "options": [
+      "seriously",
+      "almost",
+      "dangerously",
+      "exactly"
+    ],
+    "originalGroup": 10,
+    "number": 1,
+    "correct": 0,
+    "explain": "Đáp án chọn: seriously. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q092",
+    "q": "Turn off the gas. Don’t you see the kettle ________?",
+    "options": [
+      "was boiling",
+      "is boiling",
+      "have boiled",
+      "boiled"
+    ],
+    "originalGroup": 10,
+    "number": 2,
+    "correct": 1,
+    "explain": "Đáp án chọn: is boiling. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q093",
+    "q": "Bill is phoning his girlfriend again. That’s the third time he ________ her this evening.",
+    "options": [
+      "has phoned",
+      "phoned",
+      "had phoned",
+      "is phoning"
+    ],
+    "originalGroup": 10,
+    "number": 3,
+    "correct": 0,
+    "explain": "Đáp án chọn: has phoned. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q094",
+    "q": "Their income is so low that they are living in _______",
+    "options": [
+      "comfort",
+      "difficult",
+      "poor",
+      "poverty"
+    ],
+    "originalGroup": 10,
+    "number": 4,
+    "correct": 3,
+    "explain": "Đáp án chọn: poverty. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức.",
+    "note": "Might/could đều thể hiện khả năng; đề có thể chấp nhận hơn một đáp án."
+  },
+  {
+    "id": "Q095",
+    "q": "Is there any chance you _______lose your job this winter?",
+    "options": [
+      "can",
+      "might",
+      "could",
+      "must"
+    ],
+    "originalGroup": 10,
+    "number": 5,
+    "correct": 1,
+    "explain": "Đáp án chọn: might. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q096",
+    "q": "Johnny _______ very badly at Mary’s birthday party.",
+    "options": [
+      "showed",
+      "behaved",
+      "looked",
+      "operated"
+    ],
+    "originalGroup": 10,
+    "number": 6,
+    "correct": 1,
+    "explain": "Đáp án chọn: behaved. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức.",
+    "note": "Câu hỏi gốc chưa chặt chẽ, có hơn một phương án có thể chấp nhận."
+  },
+  {
+    "id": "Q097",
+    "q": "Nowadays more and more women go out to work, and they become more _______.",
+    "options": [
+      "independently",
+      "dependent",
+      "independent",
+      "dependently"
+    ],
+    "originalGroup": 10,
+    "number": 7,
+    "correct": 2,
+    "explain": "Đáp án chọn: independent. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q098",
+    "q": "Ms. Ueki has never made any _____ decision regarding to the operation of her company.",
+    "options": [
+      "foolish",
+      "fool",
+      "foolishness",
+      "fool"
+    ],
+    "originalGroup": 10,
+    "number": 8,
+    "correct": 0,
+    "explain": "Đáp án chọn: foolish. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q099",
+    "q": "It is very difficult to get _______ touch with Jenny because she works all day.",
+    "options": [
+      "in",
+      "on",
+      "of",
+      "by"
+    ],
+    "originalGroup": 10,
+    "number": 9,
+    "correct": 0,
+    "explain": "Đáp án chọn: in. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q100",
+    "q": "We found the trip to Europe _______.",
+    "options": [
+      "was exciting",
+      "excited",
+      "exciting",
+      "was excited"
+    ],
+    "originalGroup": 10,
+    "number": 10,
+    "correct": 2,
+    "explain": "Đáp án chọn: exciting. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q101",
+    "q": "If you’re going sailing, you’ll need a ________ in case you fall in the water.",
+    "options": [
+      "raincoat",
+      "life- jacket",
+      "helmet",
+      "woolen jacket"
+    ],
+    "originalGroup": 11,
+    "number": 1,
+    "correct": 1,
+    "explain": "Đáp án chọn: life- jacket. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q102",
+    "q": "I am not used ________ during long journey by plane.",
+    "options": [
+      "to sleep",
+      "sleep",
+      "sleeping",
+      "to sleeping"
+    ],
+    "originalGroup": 11,
+    "number": 2,
+    "correct": 3,
+    "explain": "Đáp án chọn: to sleeping. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q103",
+    "q": "Can you hear those people? What ________ they ________ about?",
+    "options": [
+      "do /talk",
+      "have/talked",
+      "are/talking",
+      "did/talk"
+    ],
+    "originalGroup": 11,
+    "number": 3,
+    "correct": 2,
+    "explain": "Đáp án chọn: are/talking. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q104",
+    "q": "Their washing machine was out of________ so they couldn’t wash any clothes.",
+    "options": [
+      "order",
+      "work",
+      "energy",
+      "function"
+    ],
+    "originalGroup": 11,
+    "number": 4,
+    "correct": 0,
+    "explain": "Đáp án chọn: order. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q105",
+    "q": "As there is no transport of any kind, he had to make the journey ________ foot",
+    "options": [
+      "by",
+      "in",
+      "on",
+      "with"
+    ],
+    "originalGroup": 11,
+    "number": 5,
+    "correct": 2,
+    "explain": "Đáp án chọn: on. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q106",
+    "q": "Unemployment is a serious problem in the area; there are________ jobs for the people there",
+    "options": [
+      "many",
+      "much",
+      "some",
+      "few"
+    ],
+    "originalGroup": 11,
+    "number": 6,
+    "correct": 3,
+    "explain": "Đáp án chọn: few. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q107",
+    "q": "Don’t eat those chips! They’re _______.",
+    "options": [
+      "healthy",
+      "delicious",
+      "unhealthy",
+      "tasty"
+    ],
+    "originalGroup": 11,
+    "number": 7,
+    "correct": 2,
+    "explain": "Đáp án chọn: unhealthy. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q108",
+    "q": "A. ‘I left my wallet at home’. B. ‘Don’t worry. I ________ you some money.’",
+    "options": [
+      "’ll lend",
+      "’m going to lend",
+      "am lending",
+      "have lent"
+    ],
+    "originalGroup": 11,
+    "number": 8,
+    "correct": 0,
+    "explain": "Đáp án chọn: ’ll lend. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q109",
+    "q": "I was on time for my class but Jane was late for ________.",
+    "options": [
+      "her",
+      "hers class",
+      "hers",
+      "that"
+    ],
+    "originalGroup": 11,
+    "number": 9,
+    "correct": 2,
+    "explain": "Đáp án chọn: hers. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q110",
+    "q": "Can I introduce you to Mike, a ________ of mine from work?",
+    "options": [
+      "colleague",
+      "relative",
+      "staff",
+      "employee"
+    ],
+    "originalGroup": 11,
+    "number": 10,
+    "correct": 0,
+    "explain": "Đáp án chọn: colleague. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q111",
+    "q": "I don’t like people who are noisy and________.",
+    "options": [
+      "confident",
+      "aggressive",
+      "sociable",
+      "generous"
+    ],
+    "originalGroup": 12,
+    "number": 1,
+    "correct": 1,
+    "explain": "Đáp án chọn: aggressive. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q112",
+    "q": "I ________ be late this evening so go ahead and start dinner without me.",
+    "options": [
+      "should",
+      "must",
+      "might",
+      "would"
+    ],
+    "originalGroup": 12,
+    "number": 2,
+    "correct": 2,
+    "explain": "Đáp án chọn: might. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q113",
+    "q": "I tried ________ to remember her phone number but I couldn’t.",
+    "options": [
+      "hardly",
+      "badly",
+      "hard",
+      "well"
+    ],
+    "originalGroup": 12,
+    "number": 3,
+    "correct": 2,
+    "explain": "Đáp án chọn: hard. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q114",
+    "q": "I don’t usually ________ well in mathematics, but I’m quite good at English",
+    "options": [
+      "do",
+      "make",
+      "take",
+      "get"
+    ],
+    "originalGroup": 12,
+    "number": 4,
+    "correct": 0,
+    "explain": "Đáp án chọn: do. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q115",
+    "q": "Sam was ________ when she fell off the horse.",
+    "options": [
+      "embarrassed",
+      "embarrassing",
+      "excited",
+      "exciting"
+    ],
+    "originalGroup": 12,
+    "number": 5,
+    "correct": 0,
+    "explain": "Đáp án chọn: embarrassed. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q116",
+    "q": "If you are telling someone the reason why something happened, you are ________.",
+    "options": [
+      "persuading",
+      "suggesting",
+      "advising",
+      "explaining"
+    ],
+    "originalGroup": 12,
+    "number": 6,
+    "correct": 3,
+    "explain": "Đáp án chọn: explaining. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q117",
+    "q": "Mary is a friendly girl who ________ everyone she meets.",
+    "options": [
+      "gets over",
+      "gets on with",
+      "gets off",
+      "gets up"
+    ],
+    "originalGroup": 12,
+    "number": 7,
+    "correct": 1,
+    "explain": "Đáp án chọn: gets on with. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q118",
+    "q": "Whose book is this?” “I don’t know, but I think ________.",
+    "options": [
+      "it’s John’s brother",
+      "it’s John’s brother’s",
+      "John’s brother book",
+      "that John’s brother’s"
+    ],
+    "originalGroup": 12,
+    "number": 8,
+    "correct": 1,
+    "explain": "Đáp án chọn: it’s John’s brother’s. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q119",
+    "q": "Sorry, I seem to have taken the wrong umbrella ________ mistake.",
+    "options": [
+      "by",
+      "with",
+      "on",
+      "in"
+    ],
+    "originalGroup": 12,
+    "number": 9,
+    "correct": 0,
+    "explain": "Đáp án chọn: by. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q120",
+    "q": "He_____ part in the competition several times.",
+    "options": [
+      "had taken",
+      "has taken",
+      "took",
+      "takes"
+    ],
+    "originalGroup": 12,
+    "number": 10,
+    "correct": 1,
+    "explain": "Đáp án chọn: has taken. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q121",
+    "q": "Our department staff meetings are held ________ in the conference room on the third floor.",
+    "options": [
+      "rarely",
+      "every week",
+      "always",
+      "sometimes"
+    ],
+    "originalGroup": 13,
+    "number": 1,
+    "correct": 1,
+    "explain": "Đáp án chọn: every week. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q122",
+    "q": "It was agreed that the committee meet again ________the tenth of April.",
+    "options": [
+      "for",
+      "on",
+      "to",
+      "from"
+    ],
+    "originalGroup": 13,
+    "number": 2,
+    "correct": 1,
+    "explain": "Đáp án chọn: on. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q123",
+    "q": "Yasmis is one of our best employees and ________ working here for two years.",
+    "options": [
+      "has",
+      "has been",
+      "is",
+      "will be"
+    ],
+    "originalGroup": 13,
+    "number": 3,
+    "correct": 1,
+    "explain": "Đáp án chọn: has been. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q124",
+    "q": "When Mr. Storer retires,the office is going to ________a small party for him.",
+    "options": [
+      "do",
+      "make",
+      "have",
+      "get"
+    ],
+    "originalGroup": 13,
+    "number": 4,
+    "correct": 2,
+    "explain": "Đáp án chọn: have. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q125",
+    "q": "Did you hear the ________news? Anna is going to be the new manager!",
+    "options": [
+      "surprise",
+      "surprised",
+      "surprising",
+      "to surprise"
+    ],
+    "originalGroup": 13,
+    "number": 5,
+    "correct": 2,
+    "explain": "Đáp án chọn: surprising. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức.",
+    "note": "“Always” và “every week” có thể cùng hợp ngữ pháp nếu không có ngữ cảnh thêm."
+  },
+  {
+    "id": "Q126",
+    "q": "If we don’t meet those deadlines, we’re going to be in ________ troubles.",
+    "options": [
+      "heavy",
+      "big",
+      "large",
+      "great"
+    ],
+    "originalGroup": 13,
+    "number": 6,
+    "correct": 1,
+    "explain": "Đáp án chọn: big. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q127",
+    "q": "Mr Richards, the president of Capo Electronics, has had a very ________ year.",
+    "options": [
+      "success",
+      "successfully",
+      "successful",
+      "succeed"
+    ],
+    "originalGroup": 13,
+    "number": 7,
+    "correct": 2,
+    "explain": "Đáp án chọn: successful. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q128",
+    "q": "Neptune is an extremely cold planet, and ________.",
+    "options": [
+      "so does Uranus",
+      "so has Uranus",
+      "so is Uranus",
+      "Uranus so"
+    ],
+    "originalGroup": 13,
+    "number": 8,
+    "correct": 2,
+    "explain": "Đáp án chọn: so is Uranus. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q129",
+    "q": "Unlike most Europeans, many Americans ________a bowl of cereal for breakfast every day.",
+    "options": [
+      "used to eating",
+      "are used to eat",
+      "are used to eating",
+      "use to eat"
+    ],
+    "originalGroup": 13,
+    "number": 9,
+    "correct": 2,
+    "explain": "Đáp án chọn: are used to eating. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q130",
+    "q": "Your business card should have your contact _____.",
+    "options": [
+      "information",
+      "report",
+      "announcement",
+      "figures"
+    ],
+    "originalGroup": 13,
+    "number": 10,
+    "correct": 0,
+    "explain": "Đáp án chọn: information. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q131",
+    "q": "Research in the work place reveals that people work for many reasons ________.",
+    "options": [
+      "money beside",
+      "money besides",
+      "beside money",
+      "besides money"
+    ],
+    "originalGroup": 14,
+    "number": 1,
+    "correct": 3,
+    "explain": "Đáp án chọn: besides money. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q132",
+    "q": "Canada does not require that U.S. citizens obtain passports to enter the country, and________.",
+    "options": [
+      "Mexico does neither",
+      "Mexico doesn’t either",
+      "neither does Mexico",
+      "either does Mexico"
+    ],
+    "originalGroup": 14,
+    "number": 2,
+    "correct": 2,
+    "explain": "Đáp án chọn: neither does Mexico. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức.",
+    "note": "“Mexico doesn’t either” và “neither does Mexico” đều đúng."
+  },
+  {
+    "id": "Q133",
+    "q": "The idea for the new routing system wasn’t Patterson’s’ it was________.",
+    "options": [
+      "me",
+      "mine",
+      "my",
+      "my"
+    ],
+    "originalGroup": 14,
+    "number": 3,
+    "correct": 1,
+    "explain": "Đáp án chọn: mine. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q134",
+    "q": "Mr. Moore is doing very well at his job and expects to ________ over $100,000 next year.",
+    "options": [
+      "salary",
+      "worth",
+      "income",
+      "earn"
+    ],
+    "originalGroup": 14,
+    "number": 4,
+    "correct": 3,
+    "explain": "Đáp án chọn: earn. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q135",
+    "q": "The train from Osaka will be arriving________Tokyo in ten minutes.",
+    "options": [
+      "in",
+      "before",
+      "around",
+      "at"
+    ],
+    "originalGroup": 14,
+    "number": 5,
+    "correct": 0,
+    "explain": "Đáp án chọn: in. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q136",
+    "q": "The examiner made us ________our identification in order to be admitted to the test center.",
+    "options": [
+      "to show",
+      "show",
+      "showing",
+      "showed"
+    ],
+    "originalGroup": 14,
+    "number": 6,
+    "correct": 1,
+    "explain": "Đáp án chọn: show. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q137",
+    "q": "To relieve work-related stress, our company provides free________for everyone.",
+    "options": [
+      "messages",
+      "drugs",
+      "massages",
+      "sleep"
+    ],
+    "originalGroup": 14,
+    "number": 7,
+    "correct": 2,
+    "explain": "Đáp án chọn: massages. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q138",
+    "q": "If you ________ long before leaving for the airport, the hotel will keep your bags for you.",
+    "options": [
+      "exit",
+      "move out",
+      "depart",
+      "check out"
+    ],
+    "originalGroup": 14,
+    "number": 8,
+    "correct": 3,
+    "explain": "Đáp án chọn: check out. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q139",
+    "q": "Would you please ________ write on the test books?",
+    "options": [
+      "not to",
+      "not",
+      "don’t",
+      "to not"
+    ],
+    "originalGroup": 14,
+    "number": 9,
+    "correct": 1,
+    "explain": "Đáp án chọn: not. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q140",
+    "q": "I hope the company has enough money to pay for these _____ renovations.",
+    "options": [
+      "likely",
+      "late",
+      "costly",
+      "expensively"
+    ],
+    "originalGroup": 14,
+    "number": 10,
+    "correct": 2,
+    "explain": "Đáp án chọn: costly. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức.",
+    "note": "Arrive in Tokyo thường dùng cho thành phố; arrive at Tokyo ít tự nhiên hơn nếu không có địa điểm cụ thể."
+  },
+  {
+    "id": "Q141",
+    "q": "If you are ________ Mrs. Rogers, you’ll find her in the board room.",
+    "options": [
+      "looking up",
+      "looking after",
+      "looking for",
+      "looking into"
+    ],
+    "originalGroup": 15,
+    "number": 1,
+    "correct": 2,
+    "explain": "Đáp án chọn: looking for. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q142",
+    "q": "We rely on Ms. Lee for her experience, sensitivity, and ________advice.",
+    "options": [
+      "wisdom",
+      "wisely",
+      "wise",
+      "wiser"
+    ],
+    "originalGroup": 15,
+    "number": 2,
+    "correct": 2,
+    "explain": "Đáp án chọn: wise. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q143",
+    "q": "We just bought a new copy machine and will install it ________the two offices.",
+    "options": [
+      "among",
+      "around",
+      "between",
+      "from"
+    ],
+    "originalGroup": 15,
+    "number": 3,
+    "correct": 2,
+    "explain": "Đáp án chọn: between. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q144",
+    "q": "People don’t like the way he shows off, ________?",
+    "options": [
+      "does he",
+      "don’t they",
+      "do they",
+      "doesn’t he"
+    ],
+    "originalGroup": 15,
+    "number": 4,
+    "correct": 2,
+    "explain": "Đáp án chọn: do they. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q145",
+    "q": "Passengers are asked to give their full attention until the flight attendants have________ all of the airplane safety information.",
+    "options": [
+      "describing",
+      "described",
+      "description",
+      "describes"
+    ],
+    "originalGroup": 15,
+    "number": 5,
+    "correct": 1,
+    "explain": "Đáp án chọn: described. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q146",
+    "q": "The doctor’s office will only refund fifty percent of the processing fee for patients who fail to ________ their appointments.",
+    "options": [
+      "arrive",
+      "hold",
+      "keep",
+      "meet"
+    ],
+    "originalGroup": 15,
+    "number": 6,
+    "correct": 2,
+    "explain": "Đáp án chọn: keep. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q147",
+    "q": "Farmers look forward to________ in the country fairs every summer.",
+    "options": [
+      "participating",
+      "participate",
+      "be participating",
+      "have participated"
+    ],
+    "originalGroup": 15,
+    "number": 7,
+    "correct": 0,
+    "explain": "look forward to + V-ing"
+  },
+  {
+    "id": "Q148",
+    "q": "Many children are ________ by single parents.",
+    "options": [
+      "grown up",
+      "brought up",
+      "taken care",
+      "look after"
+    ],
+    "originalGroup": 15,
+    "number": 8,
+    "correct": 1,
+    "explain": "bring up = nuôi dạy; bị động are brought up"
+  },
+  {
+    "id": "Q149",
+    "q": "Do you think a ________ for cancer will ever be found?",
+    "options": [
+      "remedy",
+      "prescription",
+      "cure",
+      "recipe"
+    ],
+    "originalGroup": 15,
+    "number": 9,
+    "correct": 2,
+    "explain": "a cure for cancer = phương pháp chữa ung thư"
+  },
+  {
+    "id": "Q150",
+    "q": "Air _____ is cheaper than other forms of long-distance transport in my country.",
+    "options": [
+      "travel",
+      "trip",
+      "journey",
+      "voyage"
+    ],
+    "originalGroup": 15,
+    "number": 10,
+    "correct": 0,
+    "explain": "Đáp án chọn: travel. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q151",
+    "q": "Her wedding ring was made of ________",
+    "options": [
+      "gold",
+      "glass",
+      "cotton",
+      "leather"
+    ],
+    "originalGroup": 16,
+    "number": 1,
+    "correct": 0,
+    "explain": "Đáp án chọn: gold. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q152",
+    "q": "This MP3 player is really ________. It only cost $15.",
+    "options": [
+      "costly",
+      "expensive",
+      "cheap",
+      "fashionable"
+    ],
+    "originalGroup": 16,
+    "number": 2,
+    "correct": 2,
+    "explain": "Đáp án chọn: cheap. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q153",
+    "q": "Shops for young people often play loud ________",
+    "options": [
+      "sound",
+      "music",
+      "noise",
+      "melody"
+    ],
+    "originalGroup": 16,
+    "number": 3,
+    "correct": 1,
+    "explain": "Đáp án chọn: music. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q154",
+    "q": "The new sports car model is not selling very well because only ________ people can afford the extremely high price",
+    "options": [
+      "few",
+      "a few",
+      "a little",
+      "many"
+    ],
+    "originalGroup": 16,
+    "number": 4,
+    "correct": 0,
+    "explain": "Đáp án chọn: few. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q155",
+    "q": "You're coming round to my house to watch a DVD, ________?",
+    "options": [
+      "won’t you",
+      "aren’t you",
+      "don’t you",
+      "do you"
+    ],
+    "originalGroup": 16,
+    "number": 5,
+    "correct": 1,
+    "explain": "Đáp án chọn: aren’t you. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q156",
+    "q": "The television ________ completely, so I had to buy a new one.",
+    "options": [
+      "broke off",
+      "broke down",
+      "broke up",
+      "out of work"
+    ],
+    "originalGroup": 16,
+    "number": 6,
+    "correct": 1,
+    "explain": "Đáp án chọn: broke down. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức.",
+    "note": "“Brought up” nói về nuôi dạy; các phương án còn lại không hoàn chỉnh hoặc sai nghĩa."
+  },
+  {
+    "id": "Q157",
+    "q": "Camels are perfectly designed to live in the ________.",
+    "options": [
+      "rainforests",
+      "mountains",
+      "deserts",
+      "desserts"
+    ],
+    "originalGroup": 16,
+    "number": 7,
+    "correct": 2,
+    "explain": "Đáp án chọn: deserts. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q158",
+    "q": "We wouldn't have used so much petrol if we ________ as much about the environment as we do now.",
+    "options": [
+      "had known",
+      "have known",
+      "knew",
+      "know"
+    ],
+    "originalGroup": 16,
+    "number": 8,
+    "correct": 0,
+    "explain": "Đáp án chọn: had known. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q159",
+    "q": "7. “Is Vera there?” “No, she ________ lunchtime.”",
+    "options": [
+      "has been out since",
+      "was out for",
+      "has been out for",
+      "was out since"
+    ],
+    "originalGroup": 16,
+    "number": 9,
+    "correct": 0,
+    "explain": "Đáp án chọn: has been out since. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q160",
+    "q": "After the new technique had been introduced, the factory produced ________ cars in 2014 as the year before.",
+    "options": [
+      "as twice as many",
+      "twice as many as",
+      "as many twice",
+      "twice as many"
+    ],
+    "originalGroup": 16,
+    "number": 10,
+    "correct": 3,
+    "explain": "Đáp án chọn: twice as many. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q161",
+    "q": "My watch is ________. It charges itself up when I move around.",
+    "options": [
+      "battery-less",
+      "free-battery",
+      "lead-free",
+      "battery-free"
+    ],
+    "originalGroup": 17,
+    "number": 1,
+    "correct": 3,
+    "explain": "Đáp án chọn: battery-free. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q162",
+    "q": "Sorry, I didn't hear you because the line keeps on ________.",
+    "options": [
+      "switching down",
+      "breaking up",
+      "breaking down",
+      "cutting off"
+    ],
+    "originalGroup": 17,
+    "number": 2,
+    "correct": 1,
+    "explain": "Đáp án chọn: breaking up. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q163",
+    "q": "My father is ________ above the garage beside our house.",
+    "options": [
+      "having a room built",
+      "having built a room",
+      "has a room built",
+      "had a room built"
+    ],
+    "originalGroup": 17,
+    "number": 3,
+    "correct": 0,
+    "explain": "Đáp án chọn: having a room built. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q164",
+    "q": "The bank told me last week there was no money in my account. I ________ it all.",
+    "options": [
+      "spent",
+      "have spent",
+      "had spent",
+      "spend"
+    ],
+    "originalGroup": 17,
+    "number": 4,
+    "correct": 2,
+    "explain": "Đáp án chọn: had spent. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q165",
+    "q": "I can remember ________ voices in the middle of the night.",
+    "options": [
+      "hearing",
+      "to hear",
+      "heard",
+      "hear"
+    ],
+    "originalGroup": 17,
+    "number": 5,
+    "correct": 0,
+    "explain": "Đáp án chọn: hearing. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q166",
+    "q": "Safety should come first. ________ lives shouldn't be put at risk.",
+    "options": [
+      "People",
+      "Peoples",
+      "Peoples’",
+      "People’s"
+    ],
+    "originalGroup": 17,
+    "number": 6,
+    "correct": 3,
+    "explain": "Đáp án chọn: People’s. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q167",
+    "q": "We don't exchange goods unless you still have the ________.",
+    "options": [
+      "receipt",
+      "bill",
+      "check",
+      "invoice"
+    ],
+    "originalGroup": 17,
+    "number": 7,
+    "correct": 0,
+    "explain": "receipt = hóa đơn/biên lai dùng để đổi trả"
+  },
+  {
+    "id": "Q168",
+    "q": "I ________ some very good photos of our dog with my new camera.",
+    "options": [
+      "made",
+      "took",
+      "shot",
+      "did"
+    ],
+    "originalGroup": 17,
+    "number": 8,
+    "correct": 1,
+    "explain": "Đáp án chọn: took. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q169",
+    "q": "8. My bedroom has a fitted ________ which covers the whole floor.",
+    "options": [
+      "curtain",
+      "sofa",
+      "furniture",
+      "carpet"
+    ],
+    "originalGroup": 17,
+    "number": 9,
+    "correct": 3,
+    "explain": "Đáp án chọn: carpet. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q170",
+    "q": "One way to cook potatoes is to ________ them in a pan of water with a little salt.",
+    "options": [
+      "grill",
+      "fry",
+      "boil",
+      "bake"
+    ],
+    "originalGroup": 17,
+    "number": 10,
+    "correct": 2,
+    "explain": "Đáp án chọn: boil. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q171",
+    "q": "Don't worry about the washing-up. We'll put everything in the ________.",
+    "options": [
+      "washing machine",
+      "cupboard",
+      "sink",
+      "dishwasher"
+    ],
+    "originalGroup": 18,
+    "number": 1,
+    "correct": 3,
+    "explain": "Đáp án chọn: dishwasher. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q172",
+    "q": "I've got my key. I found it when I ________ for something else.",
+    "options": [
+      "was looking",
+      "looked",
+      "am looking",
+      "I’ve been looking"
+    ],
+    "originalGroup": 18,
+    "number": 2,
+    "correct": 0,
+    "explain": "Đáp án chọn: was looking. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q173",
+    "q": "If you are not satisfied with the service in this store, ask to speak to the ________.",
+    "options": [
+      "secretary",
+      "manager",
+      "shop keeper",
+      "cashier"
+    ],
+    "originalGroup": 18,
+    "number": 3,
+    "correct": 1,
+    "explain": "Đáp án chọn: manager. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q174",
+    "q": "These ________ are too tight! I’ll have to lose some weight!",
+    "options": [
+      "shoes",
+      "trousers",
+      "trainers",
+      "gloves"
+    ],
+    "originalGroup": 18,
+    "number": 4,
+    "correct": 1,
+    "explain": "Đáp án chọn: trousers. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q175",
+    "q": "After the plane has ________ I can relax and start to enjoy the flight.",
+    "options": [
+      "taken over",
+      "landed",
+      "taken off",
+      "taken up"
+    ],
+    "originalGroup": 18,
+    "number": 5,
+    "correct": 2,
+    "explain": "take off = cất cánh (máy bay)"
+  },
+  {
+    "id": "Q176",
+    "q": "I can't get Tessa on the phone. I ________ all afternoon.",
+    "options": [
+      "’ve tried",
+      "tried",
+      "’ve been trying",
+      "was trying"
+    ],
+    "originalGroup": 18,
+    "number": 6,
+    "correct": 2,
+    "explain": "Đáp án chọn: ’ve been trying. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q177",
+    "q": "Polly wants to cycle round the world. She's really keen ________ the idea.",
+    "options": [
+      "on",
+      "in",
+      "with",
+      "of"
+    ],
+    "originalGroup": 18,
+    "number": 7,
+    "correct": 0,
+    "explain": "Đáp án chọn: on. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q178",
+    "q": "Susan is the woman ________ husband is in hospital.",
+    "options": [
+      "who",
+      "whose",
+      "her",
+      "hers"
+    ],
+    "originalGroup": 18,
+    "number": 8,
+    "correct": 1,
+    "explain": "Đáp án chọn: whose. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q179",
+    "q": "9. I have a/an ________ in computer aided design and three years’ experience.",
+    "options": [
+      "exam",
+      "degree",
+      "course",
+      "qualification"
+    ],
+    "originalGroup": 18,
+    "number": 9,
+    "correct": 3,
+    "explain": "Đáp án chọn: qualification. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q180",
+    "q": "The hairdryer broke the first time I used it so the store gave me a full ________.",
+    "options": [
+      "sale",
+      "payment",
+      "refund",
+      "discount"
+    ],
+    "originalGroup": 18,
+    "number": 10,
+    "correct": 2,
+    "explain": "Đáp án chọn: refund. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q181",
+    "q": "Which of the following is NOT a country?",
+    "options": [
+      "Sweden",
+      "Germany",
+      "French",
+      "Turkey"
+    ],
+    "originalGroup": 19,
+    "number": 1,
+    "correct": 2,
+    "explain": "Đáp án chọn: French. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q182",
+    "q": "Although Patricia is quite ________, she loves singing in public!",
+    "options": [
+      "lively",
+      "shy",
+      "self-confident",
+      "immature"
+    ],
+    "originalGroup": 19,
+    "number": 2,
+    "correct": 1,
+    "explain": "Đáp án chọn: shy. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q183",
+    "q": "In the desert the air is very dry, but in the jungle, it is________.",
+    "options": [
+      "humid",
+      "cloud",
+      "flood",
+      "drought"
+    ],
+    "originalGroup": 19,
+    "number": 3,
+    "correct": 0,
+    "explain": "Đáp án chọn: humid. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q184",
+    "q": "We were quite ________when my brother suddenly left to work in Australia.",
+    "options": [
+      "scared",
+      "terrified",
+      "fascinated",
+      "shocked"
+    ],
+    "originalGroup": 19,
+    "number": 4,
+    "correct": 3,
+    "explain": "Đáp án chọn: shocked. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q185",
+    "q": "Last year’s champions were ________ in the final game 5-3.",
+    "options": [
+      "taken over",
+      "beat",
+      "defeated",
+      "fought"
+    ],
+    "originalGroup": 19,
+    "number": 5,
+    "correct": 2,
+    "explain": "Đáp án chọn: defeated. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q186",
+    "q": "Phone me as soon as you________.",
+    "options": [
+      "are arriving",
+      "are going to arrive",
+      "arrive",
+      "will arrive"
+    ],
+    "originalGroup": 19,
+    "number": 6,
+    "correct": 2,
+    "explain": "as soon as + hiện tại đơn để nói tương lai"
+  },
+  {
+    "id": "Q187",
+    "q": "Does anyone know whose racket________?",
+    "options": [
+      "is that",
+      "is this",
+      "that’s",
+      "this is"
+    ],
+    "originalGroup": 19,
+    "number": 7,
+    "correct": 3,
+    "explain": "Đáp án chọn: this is. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q188",
+    "q": "The weather in Northern Canada is usually________ cold.",
+    "options": [
+      "boiling",
+      "freezing",
+      "soaking",
+      "pouring"
+    ],
+    "originalGroup": 19,
+    "number": 8,
+    "correct": 1,
+    "explain": "Đáp án chọn: freezing. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q189",
+    "q": "10. David wants to be a ________ because he absolutely adores cars.",
+    "options": [
+      "race driver",
+      "motor racer",
+      "car racer",
+      "racing driver"
+    ],
+    "originalGroup": 19,
+    "number": 9,
+    "correct": 3,
+    "explain": "Đáp án chọn: racing driver. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q190",
+    "q": "Participants _____ to bring any special equipment as everything will be provided.",
+    "options": [
+      "mustn’t",
+      "needn’t",
+      "need",
+      "don’t need"
+    ],
+    "originalGroup": 19,
+    "number": 10,
+    "correct": 3,
+    "explain": "Đáp án chọn: don’t need. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q191",
+    "q": "It was dangerous on the motorway because there was thick________.",
+    "options": [
+      "cloud",
+      "mist",
+      "rain",
+      "ice"
+    ],
+    "originalGroup": 20,
+    "number": 1,
+    "correct": 1,
+    "explain": "Đáp án chọn: mist. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q192",
+    "q": "In England you just have to________ with bad weather.",
+    "options": [
+      "put up",
+      "put on",
+      "get on",
+      "suffer"
+    ],
+    "originalGroup": 20,
+    "number": 2,
+    "correct": 0,
+    "explain": "Đáp án chọn: put up. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q193",
+    "q": "Be careful not to ________petrol when the weather is bad.",
+    "options": [
+      "run out of",
+      "end up with",
+      "go out of",
+      "run away with"
+    ],
+    "originalGroup": 20,
+    "number": 3,
+    "correct": 0,
+    "explain": "Đáp án chọn: run out of. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q194",
+    "q": "The famous ________ at Pompeii covered the whole city with ash.",
+    "options": [
+      "blizzard",
+      "volcano",
+      "hurricane",
+      "thunderstorm"
+    ],
+    "originalGroup": 20,
+    "number": 4,
+    "correct": 1,
+    "explain": "Đáp án chọn: volcano. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q195",
+    "q": "I think ________ umbrella in the hall belongs to Aunt Catherine.",
+    "options": [
+      "the",
+      "an",
+      "a",
+      "one"
+    ],
+    "originalGroup": 20,
+    "number": 5,
+    "correct": 0,
+    "explain": "Đáp án chọn: the. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q196",
+    "q": "You have to pay extra if you take ________ with you.",
+    "options": [
+      "many luggages",
+      "much luggage",
+      "much luggages",
+      "many luggage"
+    ],
+    "originalGroup": 20,
+    "number": 6,
+    "correct": 1,
+    "explain": "Đáp án chọn: much luggage. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q197",
+    "q": "The students with the highest average ________an “A”.",
+    "options": [
+      "deserve",
+      "worth",
+      "gets",
+      "value"
+    ],
+    "originalGroup": 20,
+    "number": 7,
+    "correct": 0,
+    "explain": "Đáp án chọn: deserve. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q198",
+    "q": "That was a bad fall! Have you ________yourself?",
+    "options": [
+      "harmed",
+      "hurt",
+      "injure",
+      "wounded"
+    ],
+    "originalGroup": 20,
+    "number": 8,
+    "correct": 1,
+    "explain": "Đáp án chọn: hurt. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức.",
+    "note": "“Needn’t” không dùng với to; “don’t need to” là phương án đúng."
+  },
+  {
+    "id": "Q199",
+    "q": "11. The merchant looked ________ but she wasn’t. I discovered when I got home that 12. she had cheated.",
+    "options": [
+      "honestly",
+      "frankly",
+      "friendly",
+      "honest"
+    ],
+    "originalGroup": 20,
+    "number": 9,
+    "correct": 3,
+    "explain": "Đáp án chọn: honest. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q200",
+    "q": "I gave the assistant ten euros and she gave me four euros ________.",
+    "options": [
+      "coins",
+      "cash",
+      "change",
+      "refund"
+    ],
+    "originalGroup": 20,
+    "number": 10,
+    "correct": 2,
+    "explain": "Đáp án chọn: change. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q201",
+    "q": "Mrs. Kawabata is ready to see you now. Thank you for________.",
+    "options": [
+      "wait",
+      "waiting",
+      "waited",
+      "to wait"
+    ],
+    "originalGroup": 21,
+    "number": 1,
+    "correct": 1,
+    "explain": "Đáp án chọn: waiting. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q202",
+    "q": "You need about forty different nutrients to stay________.",
+    "options": [
+      "health",
+      "healthy",
+      "healthily",
+      "healthiness"
+    ],
+    "originalGroup": 21,
+    "number": 2,
+    "correct": 1,
+    "explain": "Đáp án chọn: healthy. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q203",
+    "q": "I ________a heavy workload this month.",
+    "options": [
+      "to have",
+      "have",
+      "am having",
+      "having"
+    ],
+    "originalGroup": 21,
+    "number": 3,
+    "correct": 2,
+    "explain": "Đáp án chọn: am having. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q204",
+    "q": "It is one of the most ________books on the topic.",
+    "options": [
+      "interest",
+      "interested",
+      "interesting",
+      "interests"
+    ],
+    "originalGroup": 21,
+    "number": 4,
+    "correct": 2,
+    "explain": "Đáp án chọn: interesting. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q205",
+    "q": "The drink machine in my school doesn’t give any________. You have to have the right money.",
+    "options": [
+      "note",
+      "cash",
+      "credit card",
+      "change"
+    ],
+    "originalGroup": 21,
+    "number": 5,
+    "correct": 3,
+    "explain": "Đáp án chọn: change. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q206",
+    "q": "I’m surprised they moved your office next to ________.",
+    "options": [
+      "mine",
+      "my",
+      "I",
+      "myself"
+    ],
+    "originalGroup": 21,
+    "number": 6,
+    "correct": 0,
+    "explain": "Đáp án chọn: mine. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q207",
+    "q": "The hill was very ________and they were tired when they finally reached the top.",
+    "options": [
+      "deep",
+      "long",
+      "tall",
+      "steep"
+    ],
+    "originalGroup": 21,
+    "number": 7,
+    "correct": 3,
+    "explain": "Đáp án chọn: steep. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q208",
+    "q": "Mr. Dupont had no________ how long it would take to drive downtown.",
+    "options": [
+      "knowledge",
+      "thought",
+      "idea",
+      "willingness"
+    ],
+    "originalGroup": 21,
+    "number": 8,
+    "correct": 2,
+    "explain": "Đáp án chọn: idea. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q209",
+    "q": "13. One of the most frequent complaints among airline passengers is that there is not ________ legroom.",
+    "options": [
+      "enough",
+      "many",
+      "very",
+      "plenty"
+    ],
+    "originalGroup": 21,
+    "number": 9,
+    "correct": 0,
+    "explain": "Đáp án chọn: enough. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q210",
+    "q": "The county hospital is currently ________ volunteers to staff the reception.",
+    "options": [
+      "look to",
+      "looking for",
+      "looking around",
+      "looking into"
+    ],
+    "originalGroup": 21,
+    "number": 10,
+    "correct": 1,
+    "explain": "Đáp án chọn: looking for. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q211",
+    "q": "In the Autumn, many________turn brown and fall from the trees.",
+    "options": [
+      "branches",
+      "leaves",
+      "flowers",
+      "trees"
+    ],
+    "originalGroup": 22,
+    "number": 1,
+    "correct": 1,
+    "explain": "Đáp án chọn: leaves. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q212",
+    "q": "They didn’t know what the box________ because they couldn’t open it.",
+    "options": [
+      "consisted",
+      "contained",
+      "controlled",
+      "combined"
+    ],
+    "originalGroup": 22,
+    "number": 2,
+    "correct": 1,
+    "explain": "Đáp án chọn: contained. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q213",
+    "q": "This job is a lot for one person, so we think you need a/an________.",
+    "options": [
+      "employee",
+      "supporter",
+      "assistant",
+      "flat-mate"
+    ],
+    "originalGroup": 22,
+    "number": 3,
+    "correct": 2,
+    "explain": "Đáp án chọn: assistant. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q214",
+    "q": "If you leave the radio on all night the battery will________.",
+    "options": [
+      "run out",
+      "put off",
+      "die out",
+      "break down"
+    ],
+    "originalGroup": 22,
+    "number": 4,
+    "correct": 0,
+    "explain": "Đáp án chọn: run out. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q215",
+    "q": "Elena looks completely different________her sisters.",
+    "options": [
+      "in",
+      "with",
+      "from",
+      "of"
+    ],
+    "originalGroup": 22,
+    "number": 5,
+    "correct": 2,
+    "explain": "Đáp án chọn: from. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q216",
+    "q": "The centre of town is now traffic-free________ and cars are banned.",
+    "options": [
+      "zone",
+      "location",
+      "place",
+      "destination"
+    ],
+    "originalGroup": 22,
+    "number": 6,
+    "correct": 0,
+    "explain": "Đáp án chọn: zone. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q217",
+    "q": "After cycling all day, Bill was completely________.",
+    "options": [
+      "tired",
+      "tiring",
+      "exhausting",
+      "exhausted"
+    ],
+    "originalGroup": 22,
+    "number": 7,
+    "correct": 3,
+    "explain": "Đáp án chọn: exhausted. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q218",
+    "q": "The owner of the hotel gave us a ________welcome.",
+    "options": [
+      "helpful",
+      "kind",
+      "warm",
+      "love"
+    ],
+    "originalGroup": 22,
+    "number": 8,
+    "correct": 2,
+    "explain": "Đáp án chọn: warm. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q219",
+    "q": "14. David ________ an hour everyday playing computer games.",
+    "options": [
+      "spends",
+      "passes",
+      "takes",
+      "gives"
+    ],
+    "originalGroup": 22,
+    "number": 9,
+    "correct": 0,
+    "explain": "Đáp án chọn: spends. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q220",
+    "q": "It’s interesting ________myself living on a desert island.",
+    "options": [
+      "imagine",
+      "to imagine",
+      "imagining",
+      "to imagining"
+    ],
+    "originalGroup": 22,
+    "number": 10,
+    "correct": 1,
+    "explain": "Đáp án chọn: to imagine. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q221",
+    "q": "To get to the main road, you just go ________the park and turn left.",
+    "options": [
+      "from",
+      "through",
+      "opposite",
+      "at"
+    ],
+    "originalGroup": 23,
+    "number": 1,
+    "correct": 1,
+    "explain": "Đáp án chọn: through. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q222",
+    "q": "While we were watching the parade, a dog suddenly ________ out into the road.",
+    "options": [
+      "was running",
+      "was run",
+      "ran",
+      "run"
+    ],
+    "originalGroup": 23,
+    "number": 2,
+    "correct": 2,
+    "explain": "Đáp án chọn: ran. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q223",
+    "q": "The faster we went on the ride, the ________we felt.",
+    "options": [
+      "very bad",
+      "bad",
+      "worst",
+      "worse"
+    ],
+    "originalGroup": 23,
+    "number": 3,
+    "correct": 3,
+    "explain": "Đáp án chọn: worse. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q224",
+    "q": "We went on a day ________to the Eiffel Tower last week. It was incredible.",
+    "options": [
+      "tour",
+      "trip",
+      "journey",
+      "holiday"
+    ],
+    "originalGroup": 23,
+    "number": 4,
+    "correct": 1,
+    "explain": "Đáp án chọn: trip. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q225",
+    "q": "The comedy show was absolutely hilarious! We started laughing________ it began.",
+    "options": [
+      "after",
+      "as soon as",
+      "why",
+      "by the time"
+    ],
+    "originalGroup": 23,
+    "number": 5,
+    "correct": 1,
+    "explain": "as soon as + hiện tại đơn để nói tương lai"
+  },
+  {
+    "id": "Q226",
+    "q": "You won’t be able to find your way, ________dark.",
+    "options": [
+      "after it will get",
+      "after it gets",
+      "after it is getting",
+      "after it get"
+    ],
+    "originalGroup": 23,
+    "number": 6,
+    "correct": 1,
+    "explain": "Đáp án chọn: after it gets. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q227",
+    "q": "________ a reporter can involve a lot of travel.",
+    "options": [
+      "Can be",
+      "Be",
+      "Being",
+      "To be"
+    ],
+    "originalGroup": 23,
+    "number": 7,
+    "correct": 2,
+    "explain": "Đáp án chọn: Being. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q228",
+    "q": "If you go to court, you will need a ________ to help you.",
+    "options": [
+      "lawyer",
+      "judge",
+      "detective",
+      "spy"
+    ],
+    "originalGroup": 23,
+    "number": 8,
+    "correct": 0,
+    "explain": "Đáp án chọn: lawyer. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q229",
+    "q": "15. Natasha likes sweet tea. She usually adds ________ honey to her tea.",
+    "options": [
+      "a few",
+      "a little",
+      "few",
+      "many"
+    ],
+    "originalGroup": 23,
+    "number": 9,
+    "correct": 1,
+    "explain": "Đáp án chọn: a little. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q230",
+    "q": "Olga spent all day ________ready to leave on vacation.",
+    "options": [
+      "to get",
+      "get",
+      "getting",
+      "to getting"
+    ],
+    "originalGroup": 23,
+    "number": 10,
+    "correct": 2,
+    "explain": "Đáp án chọn: getting. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q231",
+    "q": "I can remember ________proud and happy when I graduated from university.",
+    "options": [
+      "being",
+      "to be",
+      "be",
+      "to being"
+    ],
+    "originalGroup": 24,
+    "number": 1,
+    "correct": 0,
+    "explain": "Đáp án chọn: being. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q232",
+    "q": "Sometimes students avoid________ at the teacher if they don’t want________a question.",
+    "options": [
+      "look/answer",
+      "looking/answering",
+      "looking/to answer",
+      "to look/to answer"
+    ],
+    "originalGroup": 24,
+    "number": 2,
+    "correct": 2,
+    "explain": "Đáp án chọn: looking/to answer. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q233",
+    "q": "Shhhh! Don’t move. Don ________that deer, and we don’t want to scare it off.",
+    "options": [
+      "photographs",
+      "is photographing",
+      "photographed",
+      "was photographing"
+    ],
+    "originalGroup": 24,
+    "number": 3,
+    "correct": 1,
+    "explain": "Đáp án chọn: is photographing. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q234",
+    "q": "He said he was ________at the meeting but continued to talk about it for an hour afterwards.",
+    "options": [
+      "boring",
+      "bored",
+      "bore",
+      "bore"
+    ],
+    "originalGroup": 24,
+    "number": 4,
+    "correct": 1,
+    "explain": "Đáp án chọn: bored. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q235",
+    "q": "This year’s conference will take place in the area of the country________ I grew up.",
+    "options": [
+      "where",
+      "in that",
+      "with that",
+      "in where"
+    ],
+    "originalGroup": 24,
+    "number": 5,
+    "correct": 0,
+    "explain": "Đáp án chọn: where. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q236",
+    "q": "There is the woman who erased the database by ________.",
+    "options": [
+      "error",
+      "mistake",
+      "misprint",
+      "misunderstanding"
+    ],
+    "originalGroup": 24,
+    "number": 6,
+    "correct": 1,
+    "explain": "Đáp án chọn: mistake. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q237",
+    "q": "He’s always the last to leave the office________ he has very little work to do.",
+    "options": [
+      "during",
+      "although",
+      "despite",
+      "because"
+    ],
+    "originalGroup": 24,
+    "number": 7,
+    "correct": 1,
+    "explain": "Đáp án chọn: although. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q238",
+    "q": "Thanks goodness the doctor hurried. She saved Jim’s life just________time.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "with"
+    ],
+    "originalGroup": 24,
+    "number": 8,
+    "correct": 0,
+    "explain": "Đáp án chọn: in. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q239",
+    "q": "1. Paul________some money from me but didn’t pay it back.",
+    "options": [
+      "lent",
+      "borrowed",
+      "loaned",
+      "owed"
+    ],
+    "originalGroup": 24,
+    "number": 9,
+    "correct": 1,
+    "explain": "Đáp án chọn: borrowed. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q240",
+    "q": "We don’t exchange goods unless you still have the________.",
+    "options": [
+      "bill",
+      "cheque",
+      "receipt",
+      "refund"
+    ],
+    "originalGroup": 24,
+    "number": 10,
+    "correct": 2,
+    "explain": "receipt = hóa đơn/biên lai dùng để đổi trả"
+  },
+  {
+    "id": "Q241",
+    "q": "Feeling________from the endless weeks of hard work, Mark felt his vacation was well-deserved.",
+    "options": [
+      "exhausted",
+      "exhausting",
+      "exhausts",
+      "to exhaust"
+    ],
+    "originalGroup": 25,
+    "number": 1,
+    "correct": 0,
+    "explain": "Đáp án chọn: exhausted. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q242",
+    "q": "Jane and I use the same accounting programs, but________is a newer version.",
+    "options": [
+      "her",
+      "hers",
+      "she",
+      "she’s"
+    ],
+    "originalGroup": 25,
+    "number": 2,
+    "correct": 1,
+    "explain": "Đáp án chọn: hers. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q243",
+    "q": "I’m afraid I don’t have ________of winning first prize.",
+    "options": [
+      "many hopes",
+      "much hopes",
+      "many hope",
+      "much hope"
+    ],
+    "originalGroup": 25,
+    "number": 3,
+    "correct": 3,
+    "explain": "Đáp án chọn: much hope. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q244",
+    "q": "Sarah________it really difficult to get to work on time.",
+    "options": [
+      "finds",
+      "says",
+      "thinks",
+      "does"
+    ],
+    "originalGroup": 25,
+    "number": 4,
+    "correct": 0,
+    "explain": "Đáp án chọn: finds. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q245",
+    "q": "Tim’s boss is a bit________ with him at the moment.",
+    "options": [
+      "annoying",
+      "annoyed",
+      "worried",
+      "worrying"
+    ],
+    "originalGroup": 25,
+    "number": 5,
+    "correct": 1,
+    "explain": "Đáp án chọn: annoyed. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q246",
+    "q": "A lot of scientific ________ is done with robots.",
+    "options": [
+      "designs",
+      "research",
+      "radars",
+      "solutions"
+    ],
+    "originalGroup": 25,
+    "number": 6,
+    "correct": 1,
+    "explain": "Đáp án chọn: research. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q247",
+    "q": "Please ________ my call at your earliest convenience.",
+    "options": [
+      "respond",
+      "phone",
+      "message",
+      "return"
+    ],
+    "originalGroup": 25,
+    "number": 7,
+    "correct": 3,
+    "explain": "return a call = gọi điện lại"
+  },
+  {
+    "id": "Q248",
+    "q": "The Queen________ visited the homeless shelter, greeted everyone, and handed out food!",
+    "options": [
+      "her",
+      "hers",
+      "herself",
+      "she"
+    ],
+    "originalGroup": 25,
+    "number": 8,
+    "correct": 2,
+    "explain": "Đáp án chọn: herself. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  },
+  {
+    "id": "Q249",
+    "q": "16. Passengers are no longer allowed________ more than 100 ml of liquids on board airplanes.",
+    "options": [
+      "bringing",
+      "to bring",
+      "brings",
+      "brought"
+    ],
+    "originalGroup": 25,
+    "number": 9,
+    "correct": 1,
+    "explain": "Đáp án chọn: to bring. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức.",
+    "note": "Câu gốc có đáp án đúng về cấu trúc nhưng cần giữ ngữ cảnh để giải thích."
+  },
+  {
+    "id": "Q250",
+    "q": "It is important ________clients feel confident that you have their best interests at heart.",
+    "options": [
+      "making",
+      "make",
+      "made",
+      "to make"
+    ],
+    "originalGroup": 25,
+    "number": 10,
+    "correct": 3,
+    "explain": "Đáp án chọn: to make. Hãy xét cấu trúc và nghĩa của câu đầy đủ; nếu gặp câu có nhiều lựa chọn hợp lý, kiểm tra thêm với giáo viên hoặc đáp án chính thức."
+  }
+]
